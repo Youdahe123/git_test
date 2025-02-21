@@ -1,3 +1,3 @@
 # git_test
 
-# git testing and everything for odin project
+# this is the updated code to show mo
