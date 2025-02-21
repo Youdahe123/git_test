@@ -1,3 +1,3 @@
 # git_test
 
-# YOOOO OMG IS THIS ACTUALLY WORKING LMAFPO
+# git testing and everything for odin project
